@@ -1,5 +1,5 @@
 # projects
-ProjectName:HuHomeWork .
+ProjectName:testgit.
 visit link: http://localhost:8080/HuHomeWork/student.do
 framwork: spring mvc + hibernate +jsp
 server: Tomcat 7.0
